@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="00a52d80-b4c1-4e76-9ed3-6314626fda23" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/chap02/section1/DefaultPackageKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProgramming/chap02/section1/DefaultPackageKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chap02/section1/defaultPackage.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap02/section1/defaultPackage.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +36,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
     <configuration name="DefaultPackageKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
@@ -55,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638250239842</updated>
-      <workItem from="1638250244047" duration="720000" />
+      <workItem from="1638250244047" duration="911000" />
     </task>
     <servers />
   </component>

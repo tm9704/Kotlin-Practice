@@ -1,15 +1,10 @@
 package chap02.section1
 
-import kotlin.math.PI
-import kotlin.math.abs
-//import kotlin.math.*
+import com.example.edu.Person
 
 fun main(){
-    val intro: String = "안녕하세요!"
-    val num: Int = 20
+    val user1 = Person("Kildong", 30)
 
-    println(PI)
-    println(abs(-12.6))
-
-    println("intro: $intro, num: $num")
+    println(user1.name)
+    println(user1.age)
 }
