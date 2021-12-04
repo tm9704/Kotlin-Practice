@@ -8,3 +8,11 @@ fun main(){
     val b: Double = a.toDouble() // 변환 메서드
     val result = 1L + 3 // Long형 + Int형 -> result는 Long형
 }
+
+
+
+
+
+
+
+
