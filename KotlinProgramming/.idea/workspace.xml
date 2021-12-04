@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00a52d80-b4c1-4e76-9ed3-6314626fda23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter02/section2/ValVar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter02/section2/MinMax.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter02/section2/RealNumDot.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter02/self/IntTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter02/self/RealNumTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/META-INF/KotlinProgramming.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProgramming/META-INF/KotlinProgramming.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/chap02/section1/DefaultPackageKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProgramming/chap02/section1/DefaultPackageKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +44,16 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Kotlin.ValVarKt">
+  <component name="RunManager" selected="Kotlin.RealNumDotKt">
     <configuration name="DefaultPackageKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap02.section1.DefaultPackageKt" />
+      <module name="KotlinProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RealNumDotKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter02.section2.RealNumDotKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,6 +68,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RealNumDotKt" />
         <item itemvalue="Kotlin.ValVarKt" />
         <item itemvalue="Kotlin.DefaultPackageKt" />
       </list>
@@ -73,7 +82,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638250239842</updated>
-      <workItem from="1638250244047" duration="2186000" />
+      <workItem from="1638250244047" duration="2448000" />
+      <workItem from="1638588102224" duration="1828000" />
     </task>
     <servers />
   </component>
@@ -90,5 +100,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
