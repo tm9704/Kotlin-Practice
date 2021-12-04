@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00a52d80-b4c1-4e76-9ed3-6314626fda23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter02/section4/BitsShift.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter02/section4/IncDecOperator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter02/section4/LogicalBitwise.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter02/section4/UshrEx.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter02/section4/XorSwapTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/META-INF/KotlinProgramming.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProgramming/META-INF/KotlinProgramming.kotlin_module" afterDir="false" />
-    </list>
+    <list default="true" id="00a52d80-b4c1-4e76-9ed3-6314626fda23" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1638250239842</updated>
       <workItem from="1638250244047" duration="2448000" />
-      <workItem from="1638588102224" duration="9698000" />
+      <workItem from="1638588102224" duration="10170000" />
     </task>
     <servers />
   </component>
