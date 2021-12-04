@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00a52d80-b4c1-4e76-9ed3-6314626fda23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter02/section2/MinMax.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter02/section2/RealNumDot.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter02/self/IntTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter02/self/RealNumTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter02/section2/FormattedString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter02/section2/StringExpression.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter02/section2/StringTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter02/self/BooleanCharTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/META-INF/KotlinProgramming.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProgramming/META-INF/KotlinProgramming.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/chapter02/section2/RealNumDotKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProgramming/chapter02/section2/RealNumDotKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +41,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Kotlin.RealNumDotKt">
-    <configuration name="DefaultPackageKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap02.section1.DefaultPackageKt" />
+  <component name="RunManager" selected="Kotlin.FormattedStringKt">
+    <configuration name="FormattedStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter02.section2.FormattedStringKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,6 +58,20 @@
     </configuration>
     <configuration name="RealNumDotKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter02.section2.RealNumDotKt" />
+      <module name="KotlinProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter02.section2.StringExpressionKt" />
+      <module name="KotlinProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter02.section2.StringTestKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,9 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FormattedStringKt" />
+        <item itemvalue="Kotlin.StringExpressionKt" />
+        <item itemvalue="Kotlin.StringTestKt" />
         <item itemvalue="Kotlin.RealNumDotKt" />
         <item itemvalue="Kotlin.ValVarKt" />
-        <item itemvalue="Kotlin.DefaultPackageKt" />
       </list>
     </recent_temporary>
   </component>
@@ -83,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1638250239842</updated>
       <workItem from="1638250244047" duration="2448000" />
-      <workItem from="1638588102224" duration="1828000" />
+      <workItem from="1638588102224" duration="3467000" />
     </task>
     <servers />
   </component>
