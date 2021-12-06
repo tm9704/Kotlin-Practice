@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00a52d80-b4c1-4e76-9ed3-6314626fda23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap03/section3/CallByName.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section3/CallByValue.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section3/HighOrderTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section3/HighOrderTest2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section3/HighOrderTest3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section3/ParamCount.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section3/funcargs/FuncArgument.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section3/funcfunc/FuncFunc.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section3/funcref/FunctionReference.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section3/TwoLambdaParam.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/META-INF/KotlinProgramming.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProgramming/META-INF/KotlinProgramming.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap03/section1/VarargsTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap03/section1/VarargsTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +114,7 @@
       <workItem from="1638588102224" duration="10170000" />
       <workItem from="1638601745209" duration="5901000" />
       <workItem from="1638613763581" duration="4600000" />
-      <workItem from="1638780569437" duration="4983000" />
+      <workItem from="1638780569437" duration="5961000" />
     </task>
     <servers />
   </component>
