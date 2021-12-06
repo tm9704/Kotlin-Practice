@@ -11,4 +11,3 @@ fun normalVarargs(vararg counts: Int){
     }
     println("\n")
 }
-
