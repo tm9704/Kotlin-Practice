@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00a52d80-b4c1-4e76-9ed3-6314626fda23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap03/section5/NormalFactorial.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section5/TailRecursionFibonacci.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section5/taiilrec/TailRecFactorial.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/META-INF/KotlinProgramming.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProgramming/META-INF/KotlinProgramming.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section6/LocalFunctionRange.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +115,7 @@
       <workItem from="1638613763581" duration="4600000" />
       <workItem from="1638780569437" duration="7451000" />
       <workItem from="1638791297121" duration="1000000" />
-      <workItem from="1638955430994" duration="2076000" />
+      <workItem from="1638955430994" duration="2379000" />
     </task>
     <servers />
   </component>
