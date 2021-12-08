@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00a52d80-b4c1-4e76-9ed3-6314626fda23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap03/section5/ExtensionFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section5/InfixFunction.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +116,7 @@
       <workItem from="1638613763581" duration="4600000" />
       <workItem from="1638780569437" duration="7451000" />
       <workItem from="1638791297121" duration="1000000" />
-      <workItem from="1638955430994" duration="601000" />
+      <workItem from="1638955430994" duration="940000" />
     </task>
     <servers />
   </component>
