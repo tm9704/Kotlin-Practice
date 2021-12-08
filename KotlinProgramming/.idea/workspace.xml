@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00a52d80-b4c1-4e76-9ed3-6314626fda23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap03/section5/InlineFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section5/localreturn/LocalReturn.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap03/section5/noinline/NoinlineTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap03/section5/crossinline/LocalReturnCrossinline.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +56,7 @@
       <recent name="$PROJECT_DIR$/src/chap03/section3/funcargs" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.LocalReturnKt">
+  <component name="RunManager" selected="Kotlin.LocalReturnCrossinlineKt">
     <configuration name="CallByValueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap03.section3.CallByValueKt" />
       <module name="KotlinProgramming" />
@@ -66,15 +64,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FuncFuncKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section3.funcargs.FuncFuncKt" />
+    <configuration name="FunctionReferenceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.section3.funcref.FunctionReferenceKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionReferenceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section3.funcref.FunctionReferenceKt" />
+    <configuration name="LocalReturnCrossinlineKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.section5.crossinline.LocalReturnCrossinlineKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LocalReturnCrossinlineKt" />
         <item itemvalue="Kotlin.LocalReturnKt" />
         <item itemvalue="Kotlin.NoinlineTestKt" />
         <item itemvalue="Kotlin.FunctionReferenceKt" />
         <item itemvalue="Kotlin.CallByValueKt" />
-        <item itemvalue="Kotlin.FuncFuncKt" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +115,8 @@
       <workItem from="1638601745209" duration="5901000" />
       <workItem from="1638613763581" duration="4600000" />
       <workItem from="1638780569437" duration="7451000" />
-      <workItem from="1638791297121" duration="908000" />
+      <workItem from="1638791297121" duration="1000000" />
+      <workItem from="1638955430994" duration="298000" />
     </task>
     <servers />
   </component>
