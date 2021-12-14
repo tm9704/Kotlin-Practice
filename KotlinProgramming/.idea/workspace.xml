@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00a52d80-b4c1-4e76-9ed3-6314626fda23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap04/secton2/ForOddSum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap04/secton2/ForSum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap04/secton2/ForTriangle.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/secton2/WhileFactorial.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/META-INF/KotlinProgramming.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProgramming/META-INF/KotlinProgramming.kotlin_module" afterDir="false" />
     </list>
@@ -59,7 +57,7 @@
       <recent name="$PROJECT_DIR$/src/chap03/section3/funcargs" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ForOddSumKt">
+  <component name="RunManager" selected="Kotlin.WhileFactorialKt">
     <configuration name="ForOddSumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap04.secton2.ForOddSumKt" />
       <module name="KotlinProgramming" />
@@ -81,13 +79,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhenArgsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.secton1.WhenArgsKt" />
-      <module name="KotlinProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WhenNoArgsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap04.secton1.WhenNoArgsKt" />
       <module name="KotlinProgramming" />
@@ -95,13 +86,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhileFactorialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.secton2.WhileFactorialKt" />
+      <module name="KotlinProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.WhileFactorialKt" />
         <item itemvalue="Kotlin.ForOddSumKt" />
         <item itemvalue="Kotlin.ForTriangleKt" />
         <item itemvalue="Kotlin.ForSumKt" />
         <item itemvalue="Kotlin.WhenNoArgsKt" />
-        <item itemvalue="Kotlin.WhenArgsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +118,7 @@
       <workItem from="1638780569437" duration="7451000" />
       <workItem from="1638791297121" duration="1000000" />
       <workItem from="1638955430994" duration="5008000" />
-      <workItem from="1639451902621" duration="3508000" />
+      <workItem from="1639451902621" duration="4005000" />
     </task>
     <servers />
   </component>
