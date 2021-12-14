@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00a52d80-b4c1-4e76-9ed3-6314626fda23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap04/secton1/WhenAnyCase.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap04/secton1/WhenArgs.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap04/secton1/WhenNoArgs.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/secton2/ForOddSum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/secton2/ForSum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/secton2/ForTriangle.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/META-INF/KotlinProgramming.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProgramming/META-INF/KotlinProgramming.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/chap04/secton1/IfElseIfConditionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProgramming/chap04/secton1/IfElseIfConditionKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,23 +59,23 @@
       <recent name="$PROJECT_DIR$/src/chap03/section3/funcargs" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.WhenNoArgsKt">
-    <configuration name="GlobalLocalVarsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.section6.GlobalLocalVarsKt" />
+  <component name="RunManager" selected="Kotlin.ForOddSumKt">
+    <configuration name="ForOddSumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.secton2.ForOddSumKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfConditionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.secton1.IfConditionKt" />
+    <configuration name="ForSumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.secton2.ForSumKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElseIfConditionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.secton1.IfElseIfConditionKt" />
+    <configuration name="ForTriangleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.secton2.ForTriangleKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ForOddSumKt" />
+        <item itemvalue="Kotlin.ForTriangleKt" />
+        <item itemvalue="Kotlin.ForSumKt" />
         <item itemvalue="Kotlin.WhenNoArgsKt" />
         <item itemvalue="Kotlin.WhenArgsKt" />
-        <item itemvalue="Kotlin.IfElseIfConditionKt" />
-        <item itemvalue="Kotlin.IfConditionKt" />
-        <item itemvalue="Kotlin.GlobalLocalVarsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +120,7 @@
       <workItem from="1638780569437" duration="7451000" />
       <workItem from="1638791297121" duration="1000000" />
       <workItem from="1638955430994" duration="5008000" />
-      <workItem from="1639451902621" duration="2246000" />
+      <workItem from="1639451902621" duration="3508000" />
     </task>
     <servers />
   </component>
