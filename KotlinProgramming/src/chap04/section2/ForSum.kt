@@ -1,4 +1,4 @@
-package chap04.secton2
+package chap04.section2
 
 fun main() {
     var sum = 0

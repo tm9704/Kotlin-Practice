@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00a52d80-b4c1-4e76-9ed3-6314626fda23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap04/secton2/DoWhileLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/section3/InlineLambdaReturn.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/section3/noinline/NoInlineLambdaReturn.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap04/secton1/IfCondition.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap04/section1/IfCondition.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap04/secton1/IfElseIfCondition.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap04/section1/IfElseIfCondition.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap04/secton1/WhenAnyCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap04/section1/WhenAnyCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap04/secton1/WhenArgs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap04/section1/WhenArgs.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap04/secton1/WhenNoArgs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap04/section1/WhenNoArgs.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap04/secton2/DoWhileLoop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap04/section2/DoWhileLoop.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap04/secton2/ForOddSum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap04/section2/ForOddSum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap04/secton2/ForSum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap04/section2/ForSum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap04/secton2/ForTriangle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap04/section2/ForTriangle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap04/secton2/WhileFactorial.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap04/section2/WhileFactorial.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,35 +69,35 @@
   </component>
   <component name="RunManager" selected="Kotlin.WhileFactorialKt">
     <configuration name="ForOddSumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.secton2.ForOddSumKt" />
+      <option name="MAIN_CLASS_NAME" value="chap04.section2.ForOddSumKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ForSumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.secton2.ForSumKt" />
+      <option name="MAIN_CLASS_NAME" value="chap04.section2.ForSumKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ForTriangleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.secton2.ForTriangleKt" />
+      <option name="MAIN_CLASS_NAME" value="chap04.section2.ForTriangleKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="WhenNoArgsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.secton1.WhenNoArgsKt" />
+      <option name="MAIN_CLASS_NAME" value="chap04.section1.WhenNoArgsKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="WhileFactorialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.secton2.WhileFactorialKt" />
+      <option name="MAIN_CLASS_NAME" value="chap04.section2.WhileFactorialKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,7 +128,7 @@
       <workItem from="1638780569437" duration="7451000" />
       <workItem from="1638791297121" duration="1000000" />
       <workItem from="1638955430994" duration="5008000" />
-      <workItem from="1639451902621" duration="4239000" />
+      <workItem from="1639451902621" duration="5453000" />
     </task>
     <servers />
   </component>
