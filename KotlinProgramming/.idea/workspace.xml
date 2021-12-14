@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00a52d80-b4c1-4e76-9ed3-6314626fda23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap04/section3/NormalBreakContinue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/section3/CustomExceptionTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/section3/ThrowExceptionTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap04/section3/TryCatch.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/META-INF/KotlinProgramming.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProgramming/META-INF/KotlinProgramming.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/chap04/secton1/IfConditionKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/chap04/secton1/IfElseIfConditionKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/chap04/secton1/WhenAnyCaseKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/chap04/secton1/WhenArgsKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/chap04/secton1/WhenNoArgsKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/chap04/secton2/ForOddSumKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/chap04/secton2/ForSumKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/chap04/secton2/ForTriangleKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/chap04/secton2/WhileFactorialKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/chap04/section3/NormalBreakContinueKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProgramming/chap04/section3/NormalBreakContinueKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,23 +60,9 @@
       <recent name="$PROJECT_DIR$/src/chap03/section3/funcargs" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.NormalBreakContinueKt">
-    <configuration name="ForOddSumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section2.ForOddSumKt" />
-      <module name="KotlinProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForSumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section2.ForSumKt" />
-      <module name="KotlinProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForTriangleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section2.ForTriangleKt" />
+  <component name="RunManager" selected="Kotlin.CustomExceptionTestKt">
+    <configuration name="CustomExceptionTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section3.CustomExceptionTestKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,6 +70,20 @@
     </configuration>
     <configuration name="NormalBreakContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap04.section3.NormalBreakContinueKt" />
+      <module name="KotlinProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThrowExceptionTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section3.ThrowExceptionTestKt" />
+      <module name="KotlinProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryCatchKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap04.section3.TryCatchKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CustomExceptionTestKt" />
+        <item itemvalue="Kotlin.ThrowExceptionTestKt" />
+        <item itemvalue="Kotlin.TryCatchKt" />
         <item itemvalue="Kotlin.NormalBreakContinueKt" />
         <item itemvalue="Kotlin.WhileFactorialKt" />
-        <item itemvalue="Kotlin.ForOddSumKt" />
-        <item itemvalue="Kotlin.ForTriangleKt" />
-        <item itemvalue="Kotlin.ForSumKt" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +121,7 @@
       <workItem from="1638780569437" duration="7451000" />
       <workItem from="1638791297121" duration="1000000" />
       <workItem from="1638955430994" duration="5008000" />
-      <workItem from="1639451902621" duration="6742000" />
+      <workItem from="1639451902621" duration="7927000" />
     </task>
     <servers />
   </component>
