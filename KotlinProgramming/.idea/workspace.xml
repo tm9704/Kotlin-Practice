@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00a52d80-b4c1-4e76-9ed3-6314626fda23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap05/section1/define/BirdClassDefine.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/section2/init/BirdPrimaryInit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/section2/primary/BirdPrimaryConstructor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/section2/secondary/BirdSecondaryConstructor.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +61,7 @@
       <recent name="$PROJECT_DIR$/src/chap03/section3/funcargs" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.BirdClassDefineKt">
+  <component name="RunManager" selected="Kotlin.BirdSecondaryConstructorKt">
     <configuration name="BirdClassDefineKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap05.section1.define.BirdClassDefineKt" />
       <module name="KotlinProgramming" />
@@ -67,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NormalBreakContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap04.section3.NormalBreakContinueKt" />
+    <configuration name="BirdSecondaryConstructorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section2.secondary.BirdSecondaryConstructorKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BirdSecondaryConstructorKt" />
         <item itemvalue="Kotlin.BirdClassDefineKt" />
       </list>
     </recent_temporary>
@@ -120,7 +123,7 @@
       <workItem from="1639797343114" duration="142000" />
       <workItem from="1639797729872" duration="694000" />
       <workItem from="1639798481877" duration="329000" />
-      <workItem from="1639798893074" duration="446000" />
+      <workItem from="1639798893074" duration="2311000" />
     </task>
     <servers />
   </component>
