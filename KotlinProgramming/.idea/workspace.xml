@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00a52d80-b4c1-4e76-9ed3-6314626fda23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap05/section5/burglar/CarVisibilityPublic.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/section6/AggregationTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/section6/association/AssociationTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/section6/composition/CompositionTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap05/section6/dependency/DependencyTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramming/META-INF/KotlinProgramming.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProgramming/META-INF/KotlinProgramming.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +63,16 @@
       <recent name="$PROJECT_DIR$/src/chap03/section3/funcargs" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.CarVisibilityPublicKt">
+  <component name="RunManager" selected="Kotlin.AssociationTestKt">
     <configuration name="AngleBracketTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap05.section4.AngleBracketTestKt" />
+      <module name="KotlinProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssociationTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap05.section6.association.AssociationTestKt" />
       <module name="KotlinProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,20 +99,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonThisSuperKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section4.personthis.PersonThisSuperKt" />
-      <module name="KotlinProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.AssociationTestKt" />
         <item itemvalue="Kotlin.CarVisibilityPublicKt" />
         <item itemvalue="Kotlin.AngleBracketTestKt" />
         <item itemvalue="Kotlin.InnerClassRefKt" />
         <item itemvalue="Kotlin.PersonPriSeconRefKt" />
-        <item itemvalue="Kotlin.PersonThisSuperKt" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +129,7 @@
       <workItem from="1639797729872" duration="694000" />
       <workItem from="1639798481877" duration="329000" />
       <workItem from="1639798893074" duration="5374000" />
-      <workItem from="1639882535891" duration="5272000" />
+      <workItem from="1639882535891" duration="7505000" />
     </task>
     <servers />
   </component>
