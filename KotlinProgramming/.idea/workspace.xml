@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00a52d80-b4c1-4e76-9ed3-6314626fda23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap06/section1/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section1/FakeAgeTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section1/GetterSetterTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section1/PropertyOverride.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section1/customgetset/CustomGetterSetter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section1/customproperty/CustomGetterSetterBackingProperty.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap06/section1/nomalgettersetter/NormalGetterSetter.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap06/section1/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap06/section1/PersonTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Kotlin Class" />
         <option value="Kotlin File" />
-        <option value="Class" />
       </list>
     </option>
   </component>
@@ -60,7 +66,7 @@
       <recent name="$PROJECT_DIR$/src/chap03/section3/funcargs" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.AssociationTestKt">
+  <component name="RunManager" selected="Kotlin.FakeAgeTestKt">
     <configuration name="AngleBracketTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap05.section4.AngleBracketTestKt" />
       <module name="KotlinProgramming" />
@@ -82,6 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FakeAgeTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap06.section1.FakeAgeTestKt" />
+      <module name="KotlinProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InnerClassRefKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap05.section4.innerref.InnerClassRefKt" />
       <module name="KotlinProgramming" />
@@ -89,20 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonPriSeconRefKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section4.prisecon.PersonPriSeconRefKt" />
-      <module name="KotlinProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FakeAgeTestKt" />
         <item itemvalue="Kotlin.AssociationTestKt" />
         <item itemvalue="Kotlin.CarVisibilityPublicKt" />
         <item itemvalue="Kotlin.AngleBracketTestKt" />
         <item itemvalue="Kotlin.InnerClassRefKt" />
-        <item itemvalue="Kotlin.PersonPriSeconRefKt" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +132,7 @@
       <workItem from="1639797729872" duration="694000" />
       <workItem from="1639798481877" duration="329000" />
       <workItem from="1639798893074" duration="5374000" />
-      <workItem from="1639882535891" duration="9883000" />
+      <workItem from="1639882535891" duration="12375000" />
     </task>
     <servers />
   </component>

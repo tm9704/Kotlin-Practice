@@ -37,5 +37,3 @@ class Main{
         System.out.println(p1.getName()); // 3. 게터에 의한 접근
     }
 }
-
-
