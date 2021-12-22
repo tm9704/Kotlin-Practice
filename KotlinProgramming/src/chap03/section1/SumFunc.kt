@@ -5,6 +5,8 @@ fun sum(a: Int, b: Int): Int{
     return sum
 }
 
+//fun sum(a: Int, b: Int) = a+b 축약이 가능
+
 fun main(){
     val result1 = sum(3,2)
     val result2 = sum(6,7)
