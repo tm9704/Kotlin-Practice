@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00a52d80-b4c1-4e76-9ed3-6314626fda23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap06/section2/bylazyobj/ByLazyObj.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap03/section3/ParamCount.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap03/section3/ParamCount.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,14 +60,7 @@
       <recent name="$PROJECT_DIR$/src/chap03/section3/funcargs" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ByLazyTestKt">
-    <configuration name="AngleBracketTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap05.section4.AngleBracketTestKt" />
-      <module name="KotlinProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.ParamCountKt">
     <configuration name="AssociationTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap05.section6.association.AssociationTestKt" />
       <module name="KotlinProgramming" />
@@ -96,13 +89,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ParamCountKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap03.section3.ParamCountKt" />
+      <module name="KotlinProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ParamCountKt" />
         <item itemvalue="Kotlin.ByLazyTestKt" />
         <item itemvalue="Kotlin.FakeAgeTestKt" />
         <item itemvalue="Kotlin.AssociationTestKt" />
         <item itemvalue="Kotlin.CarVisibilityPublicKt" />
-        <item itemvalue="Kotlin.AngleBracketTestKt" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +127,8 @@
       <workItem from="1639798481877" duration="329000" />
       <workItem from="1639798893074" duration="5374000" />
       <workItem from="1639882535891" duration="14222000" />
-      <workItem from="1640171857844" duration="4251000" />
+      <workItem from="1640171857844" duration="5204000" />
+      <workItem from="1640657767985" duration="660000" />
     </task>
     <servers />
   </component>
